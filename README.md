@@ -5,3 +5,4 @@ Application where you can make a shopping list
 
 Clean Architecture
 SOLID
+ViewModel
