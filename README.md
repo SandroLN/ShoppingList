@@ -7,3 +7,4 @@ Clean Architecture
 SOLID
 ViewModel
 LiveData
+RecyclerView
