@@ -8,3 +8,4 @@ SOLID
 ViewModel
 LiveData
 RecyclerView
+Fragments
