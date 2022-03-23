@@ -9,3 +9,4 @@ ViewModel
 LiveData
 RecyclerView
 Fragments
+DataBinding
